@@ -48,4 +48,4 @@ Proje, içeriğe dayalı ve işbirliğine dayalı filtreleme algoritmalarının 
 Bu proje, New York'ta seyahat etmeyi düşünen kullanıcılara uygun konaklama önerileri sunmak için geliştirilen bir öneri sistemi olarak başarılı bir şekilde tamamlanmıştır. İçeriğe dayalı ve işbirliğine dayalı filtreleme algoritmaları, kullanıcılara kişiselleştirilmiş öneriler sunmada etkili bir rol oynamaktadır. Proje, daha fazla veri ve geliştirme ile daha kapsamlı ve hassas bir öneri sistemi haline getirilebilir.
 
 
-![alt text](https://github.com/kocalparslan97/Aygaz_Data_Analysis_Bootcamp_Final_Project/blob/[branch]/Main_Project_Output.png?raw=true)
+![alt text](https://github.com/kocalparslan97/Aygaz_Data_Analysis_Bootcamp_Final_Project/blob/main/Main_Project_Output.png?raw=true)
