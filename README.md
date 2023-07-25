@@ -1,6 +1,7 @@
 # Aygaz_Data_Analysis_Bootcamp_Final_Project
-
-
+-------
+Ana projemin yanında eğitim sürecinde gördüğümüz görselleştirme işlemlerini NYC AirBNB 2019 Dataseti üzerinde uyguladım.
+-------
 [Proje Adı]
 Airbnb Konaklama Öneri Sistemi
 
